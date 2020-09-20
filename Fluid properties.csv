@@ -1,0 +1,76 @@
+,Density,Sound speed,Phase
+Air,1.2043,343.39,gas
+Ammonia,0.716051,429.403,gas
+Argon,1.66182,318.959,gas
+Benzene,878.905,1324.01,liquid
+Butane,2.49575,208.534,gas
+Butene,2.40363,214.457,gas
+Carbon Dioxide,1.83934,266.556,gas
+Carbon Monoxide,1.16489,349.071,gas
+Carbonyl Sulfide,2.5271,223.717,gas
+Cyclohexane,778.631,1291.98,liquid
+Cyclopropane,1.78014,258.146,gas
+Decafluorobutane,10.307,99.723,gas
+Decane,730.41,1253.44,liquid
+Deuterium,0.167359,920.33,gas
+Deuterium Oxide (Heavy Water),1105.4,1375.3,liquid
+Dinitrogen Monoxide,1.8403,264.99,gas
+Dodecane,749.437,1301.17,liquid
+Ethane,1.2601,308.971,gas
+Ethene,1.1733,327.52,gas
+Ethanol,789.673,1156.22,liquid
+Fluorine,1.58028,295.732,gas
+Helium,0.166317,1007.86,gas
+Heptane,683.815,1149.39,liquid
+Hexane,659.363,1077.69,liquid
+Hydrogen,0.0837547,1304.65,gas
+Hydrogen Sulfide,1.4283,306.162,gas
+Isobutane,2.48581,209.388,gas
+Krypton,3.49123,220.072,gas
+Methane,0.66816,445.011,gas
+Methanol,791.012,1116.24,liquid
+Neon,0.838471,448.922,gas
+"2, 2-Dimethylpropane",3.12159,184.155,gas
+Nitrogen,1.16483,349.104,gas
+Nitrogen Trifluoride,2.96371,201.3,gas
+Nonane,718.03,1225.6,liquid
+Octane,702.294,1166.34,liquid
+Oxygen,1.33118,325.996,gas
+Parahydrogen,0.0837547,1294.03,gas
+Pentane,625.754,1035.51,liquid
+Propane,1.86499,246.588,gas
+Propene,1.77633,255.214,gas
+Propyne,1.69579,262.298,gas
+R11,1488.11,748.673,liquid
+R113,1575.11,715.914,liquid
+R114,7.34217,120.389,gas
+R115,6.5497,128.529,gas
+R116,5.80186,137.206,gas
+R12,5.13002,148.567,gas
+R123,1476.68,722.702,liquid
+R124,5.83581,136.539,gas
+R125,5.07152,147.373,gas
+R13,4.38427,162.232,gas
+R134a,4.3364,160.085,gas
+R14,3.67329,178.732,gas
+R141b,1243.5,839.454,liquid
+R142b,4.29551,160.721,gas
+R143a,3.55797,177.809,gas
+R152a,2.81009,201.944,gas
+R21,4.41613,162.094,gas
+R218,7.99768,114.917,gas
+R22,3.65123,180.089,gas
+R227ea,7.28147,120.519,gas
+R23,2.9346,203.037,gas
+R236ea,6.56764,126.824,gas
+R236fa,6.5418,127.348,gas
+R245ca,1398.82,673.175,liquid
+R245fa,5.83766,135.088,gas
+R32,2.19165,239.342,gas
+R41,1.42759,302.109,gas
+RC318,8.58872,110.25,gas
+Sulfur Dioxide,2.7131,216.855,gas
+Sulfur Hexafluoride,6.14531,133.855,gas
+Toluene,866.892,1324.3,liquid
+Water,998.21,1482.4,liquid
+Xenon,5.48851,175.501,gas

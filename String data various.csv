@@ -1,0 +1,78 @@
+Method,Type,Instrument,Brand,String material,String code,String type,Note,Gauge (thou),Tension (kg),Scale (cm)
+Plucked,Electric,Guitar,D'Addarrio,Nickel XT,XTE1046,Light,E4,10,7.363,64.5
+Plucked,Electric,Guitar,D'Addarrio,Nickel XT,XTE1046,Light,B3,13,6.987,64.5
+Plucked,Electric,Guitar,D'Addarrio,Nickel XT,XTE1046,Light,G3,17,7.527,64.5
+Plucked,Electric,Guitar,D'Addarrio,Nickel XT,XTE1046,Light,D3,26,8.344,64.5
+Plucked,Electric,Guitar,D'Addarrio,Nickel XT,XTE1046,Light,A2,36,8.644,64.5
+Plucked,Electric,Guitar,D'Addarrio,Nickel XT,XTE1046,Light,E2,46,7.677,64.5
+Plucked,Classical,Guitar,D'Addarrio,XT Classical,XTC45,Normal tension,E4,28,7.368,64.5
+Plucked,Classical,Guitar,D'Addarrio,XT Classical,XTC45,Normal tension,B3,32,5.466,64.5
+Plucked,Classical,Guitar,D'Addarrio,XT Classical,XTC45,Normal tension,G3,40,5.393,64.5
+Plucked,Classical,Guitar,D'Addarrio,XT Classical,XTC45,Normal tension,D3,28,7.091,64.5
+Plucked,Classical,Guitar,D'Addarrio,XT Classical,XTC45,Normal tension,A2,35,7.214,64.5
+Plucked,Classical,Guitar,D'Addarrio,XT Classical,XTC45,Normal tension,E2,44,6.442,64.5
+Plucked,Electric,Bass,D'Addarrio,XT  Nickel plated,XTB45,Light long-scale,G2,45,19.304,86.4
+Plucked,Electric,Bass,D'Addarrio,XT  Nickel plated,XTB45,Light long-scale,D2,65,21.95,86.4
+Plucked,Electric,Bass,D'Addarrio,XT  Nickel plated,XTB45,Light long-scale,A1,80,18.182,86.4
+Plucked,Electric,Bass,D'Addarrio,XT  Nickel plated,XTB45,Light long-scale,E1,100,15.762,86.4
+Plucked,Concert,Ukulele,D'Addarrio,Nyltech,EJ88C,,A4,24,4.1,38
+Plucked,Concert,Ukulele,D'Addarrio,Nyltech,EJ88C,,G4,26,3.7,38
+Plucked,Concert,Ukulele,D'Addarrio,Nyltech,EJ88C,,E4,31,3.5,38
+Plucked,Concert,Ukulele,D'Addarrio,Nyltech,EJ88C,,C4,37,3.3,38
+Plucked,Tenor,Ukulele,D'Addarrio,Nyltech,EJ88T,,A4,25,6.7,43
+Plucked,Tenor,Ukulele,D'Addarrio,Nyltech,EJ88T,,G4,27,6.3,43
+Plucked,Tenor,Ukulele,D'Addarrio,Nyltech,EJ88T,,E4,32,5.9,43
+Plucked,Tenor,Ukulele,D'Addarrio,Nyltech,EJ88T,,C4,38,5.3,43
+Plucked,Baritone,Ukulele,D'Addarrio,Nyltech,EJ88B,,E4,26,5.3,48
+Plucked,Baritone,Ukulele,D'Addarrio,Nyltech,EJ88B,,B3,36,4.7,48
+Plucked,Baritone,Ukulele,D'Addarrio,Nyltech,EJ88B,,G3,24,4.826,48
+Plucked,Baritone,Ukulele,D'Addarrio,Nyltech,EJ88B,,D3,30,4.535,48
+Plucked,Bass,Ukulele,D'Addarrio,Nyltech,EJ88UB,,G3,94,5.756,51
+Plucked,Bass,Ukulele,D'Addarrio,Nyltech,EJ88UB,,D3,118,5.048,51
+Plucked,Bass,Ukulele,D'Addarrio,Nyltech,EJ88UB,,A2,165,5.552,51
+Plucked,Bass,Ukulele,D'Addarrio,Nyltech,EJ88UB,,E2,197,4.417,51
+Bowed,,Violin,D'Addarrio,Synthetic core,KA310M,Medium,E5,,17.5,32.8
+Bowed,,Violin,D'Addarrio,Synthetic core,KA310M,Medium,A4,,12.5,32.8
+Bowed,,Violin,D'Addarrio,Synthetic core,KA310M,Medium,D4,,10.5,32.8
+Bowed,,Violin,D'Addarrio,Synthetic core,KA310M,Medium,G3,,10.5,32.8
+Bowed,,Viola,D'Addarrio,Synthetic core,KA410LM,Long Medium,A4,,18.5,38
+Bowed,,Viola,D'Addarrio,Synthetic core,KA410LM,Long Medium,D4,,12.8,38
+Bowed,,Viola,D'Addarrio,Synthetic core,KA410LM,Long Medium,G3,,13,38
+Bowed,,Viola,D'Addarrio,Synthetic core,KA410LM,Long Medium,C3,,13,38
+Bowed,,Cello,D'Addarrio,Synthetic core,KS510M,Medium,A3,,39,70
+Bowed,,Cello,D'Addarrio,Synthetic core,KS510M,Medium,D3,,31,70
+Bowed,,Cello,D'Addarrio,Synthetic core,KS510M,Medium,G2,,30.9,70
+Bowed,,Cello,D'Addarrio,Synthetic core,KS510M,Medium,C2,,30,70
+Bowed,3/4 scale,Double Bass,D'Addarrio,Steel/nickel,K610M,Medium,G2,,62,106
+Bowed,3/4 scale,Double Bass,D'Addarrio,Steel/nickel,K610M,Medium,D2,,65,106
+Bowed,3/4 scale,Double Bass,D'Addarrio,Steel/nickel,K610M,Medium,A1,,68,106
+Bowed,3/4 scale,Double Bass,D'Addarrio,Steel/nickel,K610M,Medium,E1,,69,106
+Plucked,5 string,Banjo,D'Addarrio,Stainless steel,XTJ1020,Medium Light,G4,10,6.169,50.0625
+Plucked,5 string,Banjo,D'Addarrio,Stainless steel,XTJ1020,Medium Light,D4,10,6.197,66.675
+Plucked,5 string,Banjo,D'Addarrio,Stainless steel,XTJ1020,Medium Light,B3,11,5.298,66.675
+Plucked,5 string,Banjo,D'Addarrio,Stainless steel,XTJ1020,Medium Light,G3,12,3.972,66.675
+Plucked,5 string,Banjo,D'Addarrio,Stainless steel,XTJ1020,Medium Light,D3,20,5.166,66.675
+Plucked,,Mandolin,D'Addarrio,Phosphor,XTM1140,Medium,E5,11,10.555,36
+Plucked,,Mandolin,D'Addarrio,Phosphor,XTM1141,Medium,A4,15,8.744,36
+Plucked,,Mandolin,D'Addarrio,Phosphor,XTM1142,Medium,D4,26,10.605,36
+Plucked,,Mandolin,D'Addarrio,Phosphor,XTM1143,Medium,G3,40,11.113,36
+Bowed,,Erhu,D'Addarrio,Stainless steel,ERHU01,Medium,A4,10,4.54,38
+Bowed,,Erhu,D'Addarrio,Stainless steel,ERHU01,Medium,D4,18,5.902,38
+Plucked,,Pipa,D'Addarrio,,PIPA01,Medium,A3,17,3.859,72.4
+Plucked,,Pipa,D'Addarrio,,PIPA01,Medium,E3,,6.129,72.4
+Plucked,,Pipa,D'Addarrio,,PIPA01,Medium,D3,,7.945,72.4
+Plucked,,Pipa,D'Addarrio,,PIPA01,Medium,A2,39,7.264,72.4
+Plucked,Zhong,Ruan,D'Addarrio,,RUAN01,Medium,D4,,8.399,54.6
+Plucked,Zhong,Ruan,D'Addarrio,,RUAN01,Medium,G3,,8.399,54.6
+Plucked,Zhong,Ruan,D'Addarrio,,RUAN01,Medium,D3,,8.853,54.6
+Plucked,Zhong,Ruan,D'Addarrio,,RUAN01,Medium,G2,,8.399,54.6
+Plucked,Tenor,Guitar,D'Addarrio,,EJ66,Low,A4,10,10.678,55.5
+Plucked,Tenor,Guitar,D'Addarrio,,EJ66,Low,D4,14,9.32,55.5
+Plucked,Tenor,Guitar,D'Addarrio,,EJ66,Low,G3,22,9.116,55.5
+Plucked,Tenor,Guitar,D'Addarrio,,EJ66,Low,C3,32,8.503,55.5
+Plucked,,Oud,D'Addarrio,Nylon,EJ95,Normal tension,D4,22,2.955,61
+Plucked,,Oud,D'Addarrio,Nylon,EJ96,Normal tension,A3,28,2.669,61
+Plucked,,Oud,D'Addarrio,Nylon,EJ97,Normal tension,E3,25,3.799,61
+Plucked,,Oud,D'Addarrio,Nylon,EJ98,Normal tension,B2,29,3.641,61
+Plucked,,Oud,D'Addarrio,Nylon,EJ99,Normal tension,Fs2,33,3.395,61
+Plucked,,Oud,D'Addarrio,Nylon,EJ100,Normal tension,Cs2,41,3.15,61

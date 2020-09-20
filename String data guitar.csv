@@ -1,0 +1,61 @@
+Type,Instrument,Brand,String material,String code,String type,Note,Gauge (thou),Tension (kg),Scale (cm)
+Electric,Guitar,D'addarrio,XL Prosteels,EPS530,Extra Super Light,E4,8,4.71,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS530,Extra Super Light,B3,10,4.13,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS530,Extra Super Light,G3,15,5.85,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS530,Extra Super Light,D3,21,4.98,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS530,Extra Super Light,A2,30,5.95,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS530,Extra Super Light,E2,38,4.99,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE0942,Super light,E4,9,5.965,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE0942,Super light,B3,11,5.003,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE0942,Super light,G3,16,6.664,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE0942,Super light,D3,24,7.141,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE0942,Super light,A2,32,7.037,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE0942,Super light,E2,42,6.523,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1046,Light,E4,10,7.363,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1046,Light,B3,13,6.987,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1046,Light,G3,17,7.527,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1046,Light,D3,26,8.344,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1046,Light,A2,36,8.644,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1046,Light,E2,46,7.677,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1149,Medium,E4,11,8.912,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1149,Medium,B3,14,8.103,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1149,Medium,G3,18,8.435,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1149,Medium,D3,28,9.588,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1149,Medium,A2,38,9.515,64.5
+Electric,Guitar,D'addarrio,Nickel XT,XTE1149,Medium,E2,49,8.612,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS600,Jazz Medium,E4,13,12.44,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS600,Jazz Medium,B3,17,11.94,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS600,Jazz Medium,G3,26,13.75,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS600,Jazz Medium,D3,36,14.42,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS600,Jazz Medium,A2,46,12.76,64.5
+Electric,Guitar,D'addarrio,XL Prosteels,EPS600,Jazz Medium,E2,56,9.97,64.5
+Electric,Guitar,D'addarrio,XL Chromes,ECG23,Flat Wound Extra Light,E4,10,7.36,64.5
+Electric,Guitar,D'addarrio,XL Chromes,ECG23,Flat Wound Extra Light,B3,14,8.09,64.5
+Electric,Guitar,D'addarrio,XL Chromes,ECG23,Flat Wound Extra Light,G3,20,9.4,64.5
+Electric,Guitar,D'addarrio,XL Chromes,ECG23,Flat Wound Extra Light,D3,28,9.92,64.5
+Electric,Guitar,D'addarrio,XL Chromes,ECG23,Flat Wound Extra Light,A2,38,10.15,64.5
+Electric,Guitar,D'addarrio,XL Chromes,ECG23,Flat Wound Extra Light,E2,48,9.24,64.5
+Electric,Guitar,D'addarrio,XL Chromes Flat Wound,ECG26,Medium flat,E4,13,12.44,64.5
+Electric,Guitar,D'addarrio,XL Chromes Flat Wound,ECG26,Medium flat,B3,17,11.94,64.5
+Electric,Guitar,D'addarrio,XL Chromes Flat Wound,ECG26,Medium flat,G3,26,15.68,64.5
+Electric,Guitar,D'addarrio,XL Chromes Flat Wound,ECG26,Medium flat,D3,35,15.62,64.5
+Electric,Guitar,D'addarrio,XL Chromes Flat Wound,ECG26,Medium flat,A2,45,14.33,64.5
+Electric,Guitar,D'addarrio,XL Chromes Flat Wound,ECG26,Medium flat,E2,56,12.04,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC45,Normal tension,E4,28,7.368,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC45,Normal tension,B3,32,5.466,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC45,Normal tension,G3,40,5.393,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC45,Normal tension,D3,28,7.091,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC45,Normal tension,A2,35,7.214,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC45,Normal tension,E2,44,6.442,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC46,Hard tension,E4,29,7.631,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC46,Hard tension,B3,33,5.638,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC46,Hard tension,G3,41,5.584,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC46,Hard tension,D3,29,7.372,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC46,Hard tension,A2,36,7.699,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC46,Hard tension,E2,46,6.905,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC44,Extra hard tension,E4,29,7.904,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC44,Extra hard tension,B3,33,5.847,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC44,Extra hard tension,G3,42,5.747,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC44,Extra hard tension,D3,30,7.372,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC44,Extra hard tension,A2,36,9.061,64.5
+Classical,Guitar,D'addarrio,XT Classical,XTC44,Extra hard tension,E2,47,7.109,64.5
